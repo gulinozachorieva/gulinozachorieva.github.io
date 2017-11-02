@@ -13,24 +13,34 @@
    <h2>gulnozachorieva@hotmail.com</h2>
    </div>
 <div id="content-summary">
-
 </div id="container">
   <h3>Profile</h3>
 <div id="professianalheader">
 <h4>Professianal Experiance</h4>
-</div>
 <div id="content Ahley">
+<div class="block-date">
+<div class="date">September 2016-September 2017</div>
  <h5>Ashley Home Furniture</h5>
-  <li>Sales Associate</li>
+</div>
+<div class"block-content">
+  <ul>
+    <li> Sales Associate</li>
 <div id="content ZARA">
- <h6>ZARA</h6>
-  <li>Sales Associate</li>
-<div id="content us uz">
- <h7> Us Uz Alpomish LLC</h7>
-  <li>Dispatching</li>
-  <li>Accounting</li>
-  
+<div class="block-date">
+<div class="date">2015-2016
+ <h5>ZARA</h5>
+ </div>
+ <div class"block-content">
+  <ul>
+    <li>Sales Associate</li>
+<div id="content Us Uz">
+<div class="block-date">
+<div class="date">2012-2014
+ <h5> Us Uz Alpomish LLC</h5>
+ </div>
+  <ul>
+    <li>Dispatching</li>
+    <li>Accounting</li> 
 </head>
 </body>
 </html>
- 

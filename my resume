@@ -17,12 +17,12 @@
 </div id="container">
   <h3>Profile</h3>
 <div id="professianalheader">
-Professianal Experiance
+<h4>Professianal Experiance</h4>
 </div>
 <div id="content us uz">
- <h4> Us Uz Alpomish LLC</h4>
-  <li>"Dispatching"</li>
-  <li>"Accounting</li>
+ <h5> Us Uz Alpomish LLC</h5>
+  <li>Dispatching</li>
+  <li>Accounting</li>
   
 </head>
 </body>

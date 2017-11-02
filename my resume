@@ -20,15 +20,15 @@
 <h4>Professianal Experiance</h4>
 </div>
 <div id="content Ahley">
-  <h5>Ashley Home Furniture</h5>
-    <li>Sales Associate</li>
+ <h5>Ashley Home Furniture</h5>
+  <li>Sales Associate</li>
 <div id="content ZARA">
-  <h6>ZARA</h6>
-    <li>Sales Associate</li>
+ <h6>ZARA</h6>
+  <li>Sales Associate</li>
 <div id="content us uz">
-  <h7> Us Uz Alpomish LLC</h7>
-    <li>Dispatching</li>
-    <li>Accounting</li>
+ <h7> Us Uz Alpomish LLC</h7>
+  <li>Dispatching</li>
+  <li>Accounting</li>
   
 </head>
 </body>
